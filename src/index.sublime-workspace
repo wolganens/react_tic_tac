@@ -1,0 +1,886 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contac",
+				"contact_status_id"
+			],
+			[
+				"belongsT",
+				"belongsToMany"
+			],
+			[
+				"parse",
+				"parsedSelected"
+			],
+			[
+				"pars",
+				"parsedSelected"
+			],
+			[
+				"transa",
+				"transaction"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"condi",
+				"conditions"
+			],
+			[
+				"cus",
+				"customers"
+			],
+			[
+				"valida",
+				"validator"
+			],
+			[
+				"condit",
+				"condition_rule"
+			],
+			[
+				"group",
+				"group_connective"
+			],
+			[
+				"custom",
+				"customer"
+			],
+			[
+				"lead",
+				"leadsFilters"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 1283,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.css",
+			"settings":
+			{
+				"buffer_size": 639,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set javscr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"react",
+				"Set Syntax: React Templates"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"vue com",
+				"Snippet: Vue component"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"vue comp",
+				"Snippet: Vue component"
+			],
+			[
+				"vue co",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pc-casa/my-app/src"
+	],
+	"file_history":
+	[
+		"/home/pc-casa/easytools/client/src/components/Stores/Form.vue",
+		"/home/pc-casa/easytools/server/app/Store.php",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/StoresController.php",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/AttendantsController.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_18_004945_alter_table_stores_drop_drop_checkout_delay_id.php",
+		"/home/pc-casa/easytools/client/.env",
+		"/home/pc-casa/easytools/client/src/store.js",
+		"/home/pc-casa/my-app/src/index.js",
+		"/home/pc-casa/my-app/src/index.css",
+		"/home/pc-casa/easytools/client/src/components/Attendants/Index.vue",
+		"/home/pc-casa/easytools/server/app/UserStore.php",
+		"/home/pc-casa/easytools/client/src/components/Attendants/List.vue",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/IntegrationsController.php",
+		"/home/pc-casa/easytools/server/app/User.php",
+		"/home/pc-casa/Downloads/Afiliados_CorteeCosturaRevelado_20vendas.csv",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/ResetPasswordController.php",
+		"/home/pc-casa/easytools/server/routes/api.php",
+		"/home/pc-casa/easytools/dev-access_log",
+		"/home/pc-casa/easytools/dev-error_log",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/AuthController.php",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/ForgotPasswordController.php",
+		"/home/pc-casa/easytools/client/src/components/Integrations/Google/Index.vue",
+		"/home/pc-casa/easytools/client/src/router.js",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/TransactionsController.php",
+		"/home/pc-casa/easytools/client/src/components/Stores/Attend.vue",
+		"/home/pc-casa/easytools/client/src/components/Stores/Invites.vue",
+		"/home/pc-casa/easytools/client/src/components/Stores/AttendingList.vue",
+		"/home/pc-casa/E2t4wolgan123*",
+		"/home/pc-casa/easytools/client/src/App.vue",
+		"/home/pc-casa/easytools/client/src/components/Transactions.vue",
+		"/home/pc-casa/easytools/client/src/components/LeadSegmentations/index.vue",
+		"/home/pc-casa/easytools/client/src/components/Dashboard/index.vue",
+		"/home/pc-casa/easytools/client/src/components/Email/index.vue",
+		"/home/pc-casa/easytools/client/src/components/Integrations/index.vue",
+		"/home/pc-casa/easytools/client/src/components/Attendants/Edit.vue",
+		"/home/pc-casa/easytools/client/src/plugins/vuetify.js",
+		"/home/pc-casa/easytools/client/src/components/Account/AuthMain.vue",
+		"/home/pc-casa/easytools/client/src/components/Stores/index.vue",
+		"/home/pc-casa/easytools/client/src/components/Leads/Index.vue",
+		"/home/pc-casa/easytools/client/src/components/Profile.vue",
+		"/home/pc-casa/easytools/client/src/components/ContentDeclaration.vue",
+		"/home/pc-casa/easytools/client/src/components/Email/Create.vue",
+		"/home/pc-casa/easytools/client/src/components/Email/Edit.vue",
+		"/home/pc-casa/easytools/client/src/components/HelloWorld.vue",
+		"/home/pc-casa/easytools/client/src/components/LeadSegmentations/Edit.vue",
+		"/home/pc-casa/easytools/client/src/components/SendTrackCodeForm.vue",
+		"/home/pc-casa/easytools/client/src/components/Tickets.vue",
+		"/home/pc-casa/easytools/client/src/components/TransactionDetails.vue",
+		"/home/pc-casa/easytools/client/src/components/TransactionsFilters.vue",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/PostbacksController.php",
+		"/home/pc-casa/easytools/client/src/components/Attendants/Form.vue",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/InvitesController.php",
+		"/home/pc-casa/easytools/server/app/Invite.php",
+		"/home/pc-casa/easytools/server/app/InviteStore.php",
+		"/home/pc-casa/easytools/server/app/ContactStatusInviteStore.php",
+		"/home/pc-casa/easytools/server/app/ContactStatus.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_11_053937_add_user_store_id_to_transactions_table.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_10_042608_alter_table_invite_add_google_oauth_id_column.php",
+		"/home/pc-casa/easytools/client/src/components/Stores/Table.vue",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_05_050159_invite_store_2.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_05_045733_invite_store.php",
+		"/home/pc-casa/easytools/client/src/components/Stores/List.vue",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/LeadsController.php",
+		"/home/pc-casa/easytools/client/src/components/Account/Register.vue",
+		"/home/pc-casa/easytools/client/src/components/Invite/Index.vue",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/Auth/VerificationController.php",
+		"/home/pc-casa/easytools/server/app/Notifications/VerifyApiEmail.php",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/VerificationApiController.php",
+		"/home/pc-casa/easytools/server/resources/views/inviteEmail.blade.php",
+		"/home/pc-casa/easytools/server/app/Jobs/SendInviteEmail.php",
+		"/home/pc-casa/easytools/server/routes/web.php",
+		"/home/pc-casa/easytools/client/src/components/Login.vue",
+		"/home/pc-casa/easytools/server/storage/logs/laravel-2019-09-06.log",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_06_020043_rename_invvite_store_id.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_06_015825_rename_contact_status_invite_store.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_06_015513_rename_invite_store_invite_stores.php",
+		"/home/pc-casa/easytools/client/src/components/LeadSegmentations/List.vue",
+		"/home/pc-casa/easytools/server/app/LeadSegmentation.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_05_044458_alter_table_user_store_set_user_id_nullable.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_05_043925_create_composite_unique_keys_user_store.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_05_040217_create_user_store_table.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_05_043436_add_active_column_to_user_store_table.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_05_043026_rename_user_id_column_user_store.php",
+		"/home/pc-casa/easytools/server/vendor/google/apiclient-services/src/Google/Service/Partners/UserProfile.php",
+		"/home/pc-casa/easytools/server/app/Attendant.php",
+		"/home/pc-casa/easytools/server/app/GoogleOauth.php",
+		"/home/pc-casa/easytools/server/app/Mail/InviteAttendant.php",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/EmailsController.php",
+		"/home/pc-casa/easytools/server/app/Email.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_05_034719_drop_attendants_drop.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_03_022404_save_lead_segmentation_json_definition.php",
+		"/home/pc-casa/easytools/client/src/components/Register.vue",
+		"/home/pc-casa/easytools/server/.env",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_04_224746_add_status_id_to_transactions_table.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_07_30_193121_create_store_contact_statuses_table.php",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/CustomerController.php",
+		"/home/pc-casa/easytools/client/src/components/LeadSegmentations/Form/index.vue",
+		"/home/pc-casa/easytools/client/src/components/LeadSegmentations/Create.vue",
+		"/home/pc-casa/easytools/server/app/Mail/SegmentEmails.php",
+		"/home/pc-casa/easytools/server/app/Jobs/SendMail.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_03_021031_drop_segmentations_table.php",
+		"/home/pc-casa/easytools/server/app/Customer.php",
+		"/home/pc-casa/easytools/server/vendor/google/apiclient-services/src/Google/Service/ServiceConsumerManagement/CustomError.php",
+		"/home/pc-casa/easytools/server/storage/logs/laravel-2019-09-03.log",
+		"/home/pc-casa/easytools/server/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/home/pc-casa/easytools/server/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php",
+		"/home/pc-casa/easytools/client/src/components/Leads/Import.vue",
+		"/home/pc-casa/easytools/server/database/migrations/2019_09_03_021329_drop_lead_segmentations_depreceated_columns.php",
+		"/home/pc-casa/easytools/server/app/Tag.php",
+		"/home/pc-casa/easytools/client/src/components/Leads/Create.vue",
+		"/home/pc-casa/easytools/server/app/Http/Controllers/TagsController.php",
+		"/home/pc-casa/easytools/client/src/components/Leads/List.vue",
+		"/home/pc-casa/easytools/client/src/components/LeadSegmentations/Form/Group.vue",
+		"/home/pc-casa/easytools/client/src/components/Attendants/Create.vue",
+		"/home/pc-casa/easytools/server/app/Imports/CustomersImport.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_08_27_040240_create_tags_table.php",
+		"/home/pc-casa/easytools/client/node_modules/filepond-plugin-file-validate-type/dist/filepond-plugin-file-validate-type.js",
+		"/home/pc-casa/easytools/client/package.json",
+		"/home/pc-casa/easytools/client/src/main.js",
+		"/home/pc-casa/easytools/client/src/components/Leads/Form.vue",
+		"/home/pc-casa/easytools/client/src/components/Stores/Create.vue",
+		"/home/pc-casa/easytools/server/database/migrations/2019_08_27_045051_set_customers_user_id.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_08_27_044922_alter_table_customers_add_user_id_column.php",
+		"/home/pc-casa/easytools/server/database/migrations/2019_05_02_184922_create_customer_table.php",
+		"/home/pc-casa/bp-home/components/terrorVermelho/Plans/Plan/index.vue",
+		"/home/pc-casa/bp-home/components/terrorVermelho/Cover/index.vue",
+		"/home/pc-casa/bp-plataform/server/index.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app store.php",
+				"server/app/Store.php"
+			],
+			[
+				"compostoreform.vue",
+				"client/src/components/Stores/Form.vue"
+			],
+			[
+				"storecontroller",
+				"server/app/Http/Controllers/StoresController.php"
+			],
+			[
+				"store.js",
+				"client/src/store.js"
+			],
+			[
+				"integracontro",
+				"server/app/Http/Controllers/IntegrationsController.php"
+			],
+			[
+				"app userstore",
+				"server/app/UserStore.php"
+			],
+			[
+				"app user.php",
+				"server/app/User.php"
+			],
+			[
+				"attencontr",
+				"server/app/Http/Controllers/AttendantsController.php"
+			],
+			[
+				"app uSER.PHP",
+				"server/app/User.php"
+			],
+			[
+				"api.php",
+				"server/routes/api.php"
+			],
+			[
+				"authcontr",
+				"server/app/Http/Controllers/AuthController.php"
+			],
+			[
+				"route api.php",
+				"server/routes/api.php"
+			],
+			[
+				"storescontr",
+				"server/app/Http/Controllers/StoresController.php"
+			],
+			[
+				"transcontr",
+				"server/app/Http/Controllers/TransactionsController.php"
+			],
+			[
+				"transacontroll",
+				"server/app/Http/Controllers/TransactionsController.php"
+			],
+			[
+				"route",
+				"client/src/router.js"
+			],
+			[
+				"transactio.vue",
+				"client/src/components/Transactions.vue"
+			],
+			[
+				"app.vue",
+				"client/src/App.vue"
+			],
+			[
+				"plugivuet",
+				"client/src/plugins/vuetify.js"
+			],
+			[
+				"email create.vue",
+				"client/src/components/Email/Create.vue"
+			],
+			[
+				"postbacontr",
+				"server/app/Http/Controllers/PostbacksController.php"
+			],
+			[
+				"invitecontr",
+				"server/app/Http/Controllers/InvitesController.php"
+			],
+			[
+				"invitestore2",
+				"server/database/migrations/2019_09_05_050159_invite_store_2.php"
+			],
+			[
+				"migrations invitestore",
+				"server/database/migrations/2019_09_05_045733_invite_store.php"
+			],
+			[
+				"app invite",
+				"server/app/Invite.php"
+			],
+			[
+				"attenancontr",
+				"server/app/Http/Controllers/AttendantsController.php"
+			],
+			[
+				"invitescontr",
+				"server/app/Http/Controllers/InvitesController.php"
+			],
+			[
+				"route api",
+				"server/routes/api.php"
+			],
+			[
+				"leadscontr",
+				"server/app/Http/Controllers/LeadsController.php"
+			],
+			[
+				"authcontro",
+				"server/app/Http/Controllers/AuthController.php"
+			],
+			[
+				"view invite",
+				"server/resources/views/inviteEmail.blade.php"
+			],
+			[
+				"sendinvite",
+				"server/app/Jobs/SendInviteEmail.php"
+			],
+			[
+				"route web.php",
+				"server/routes/web.php"
+			],
+			[
+				"autcontro",
+				"server/app/Http/Controllers/AuthController.php"
+			],
+			[
+				"web.php ",
+				"server/routes/web.php"
+			],
+			[
+				"attendcontr",
+				"server/app/Http/Controllers/AttendantsController.php"
+			],
+			[
+				"renameinvite",
+				"server/database/migrations/2019_09_06_015513_rename_invite_store_invite_stores.php"
+			],
+			[
+				"appinvitestore",
+				"server/app/InviteStore.php"
+			],
+			[
+				"integracontroller",
+				"server/app/Http/Controllers/IntegrationsController.php"
+			],
+			[
+				"renamuse",
+				"server/database/migrations/2019_09_05_043026_rename_user_id_column_user_store.php"
+			],
+			[
+				"app user",
+				"server/vendor/google/apiclient-services/src/Google/Service/Partners/UserProfile.php"
+			],
+			[
+				"attendaco",
+				"server/app/Http/Controllers/AttendantsController.php"
+			],
+			[
+				"storejs",
+				"client/src/store.js"
+			],
+			[
+				"integracontr",
+				"server/app/Http/Controllers/IntegrationsController.php"
+			],
+			[
+				"createuserstoreta",
+				"server/database/migrations/2019_09_05_040217_create_user_store_table.php"
+			],
+			[
+				"app email",
+				"server/app/Email.php"
+			],
+			[
+				"emailcontro",
+				"server/app/Http/Controllers/EmailsController.php"
+			],
+			[
+				"migraticontactstatu",
+				"server/database/migrations/2019_07_30_193121_create_store_contact_statuses_table.php"
+			],
+			[
+				"status_id_to_transac",
+				"server/database/migrations/2019_09_04_224746_add_status_id_to_transactions_table.php"
+			],
+			[
+				"custocontr",
+				"server/app/Http/Controllers/CustomerController.php"
+			],
+			[
+				"postback",
+				"server/app/Http/Controllers/PostbacksController.php"
+			],
+			[
+				"sendmail",
+				"server/app/Jobs/SendMail.php"
+			],
+			[
+				"SegmentEmails",
+				"server/app/Mail/SegmentEmails.php"
+			],
+			[
+				"APPLeadSegmentatio",
+				"server/app/LeadSegmentation.php"
+			],
+			[
+				"app leads",
+				"server/app/LeadSegmentation.php"
+			],
+			[
+				"email ",
+				"server/app/Email.php"
+			],
+			[
+				"customercontr",
+				"server/app/Http/Controllers/CustomerController.php"
+			],
+			[
+				"app lead",
+				"server/app/LeadSegmentation.php"
+			],
+			[
+				"app leadse",
+				"server/app/LeadSegmentation.php"
+			],
+			[
+				"save lead defin",
+				"server/database/migrations/2019_09_03_022404_save_lead_segmentation_json_definition.php"
+			],
+			[
+				"customer.php",
+				"server/app/Customer.php"
+			],
+			[
+				"customephp",
+				"server/vendor/google/apiclient-services/src/Google/Service/ServiceConsumerManagement/CustomError.php"
+			],
+			[
+				"logs 09-03.",
+				"server/storage/logs/laravel-2019-09-03.log"
+			],
+			[
+				"illum faca auth.",
+				"server/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php"
+			],
+			[
+				"facade auth",
+				"server/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php"
+			],
+			[
+				"customer",
+				"server/app/Customer.php"
+			],
+			[
+				"customecontr",
+				"server/app/Http/Controllers/CustomerController.php"
+			],
+			[
+				"Illuminate\\Database\\Eloquent\\Collection",
+				"server/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php"
+			],
+			[
+				"app leadsem",
+				"server/app/LeadSegmentation.php"
+			],
+			[
+				"app leadsegme",
+				"server/app/LeadSegmentation.php"
+			],
+			[
+				"email.",
+				"server/app/Email.php"
+			],
+			[
+				"app leadsegm",
+				"server/app/LeadSegmentation.php"
+			],
+			[
+				"save jsondefi",
+				"server/database/migrations/2019_09_03_022404_save_lead_segmentation_json_definition.php"
+			],
+			[
+				"depreceatedcolu",
+				"server/database/migrations/2019_09_03_021329_drop_lead_segmentations_depreceated_columns.php"
+			],
+			[
+				"drop table",
+				"server/database/migrations/2019_09_03_021031_drop_segmentations_table.php"
+			],
+			[
+				"customcontr",
+				"server/app/Http/Controllers/CustomerController.php"
+			],
+			[
+				"leadcontr",
+				"server/app/Http/Controllers/LeadsController.php"
+			],
+			[
+				"leadscontro",
+				"server/app/Http/Controllers/LeadsController.php"
+			],
+			[
+				"leadsegment",
+				"server/app/LeadSegmentation.php"
+			],
+			[
+				"app tag.php",
+				"server/app/Tag.php"
+			],
+			[
+				"customecontro",
+				"server/app/Http/Controllers/CustomerController.php"
+			],
+			[
+				"tagscontr",
+				"server/app/Http/Controllers/TagsController.php"
+			],
+			[
+				"leadontr",
+				"server/app/Http/Controllers/LeadsController.php"
+			],
+			[
+				"components leads list",
+				"client/src/components/LeadSegmentations/List.vue"
+			],
+			[
+				"leascontrol",
+				"server/app/Http/Controllers/LeadsController.php"
+			],
+			[
+				"integraontroll",
+				"server/app/Http/Controllers/IntegrationsController.php"
+			],
+			[
+				"tagscontro",
+				"server/app/Http/Controllers/TagsController.php"
+			],
+			[
+				"postback c",
+				"server/app/Http/Controllers/PostbacksController.php"
+			],
+			[
+				"integcontr",
+				"server/app/Http/Controllers/IntegrationsController.php"
+			],
+			[
+				"create tag tabl",
+				"server/database/migrations/2019_08_27_040240_create_tags_table.php"
+			],
+			[
+				"creat tag table",
+				"server/database/migrations/2019_08_27_040240_create_tags_table.php"
+			],
+			[
+				"leadsco",
+				"server/app/Http/Controllers/LeadsController.php"
+			],
+			[
+				"pond-plugin-file-validate-typ js",
+				"client/node_modules/filepond-plugin-file-validate-type/dist/filepond-plugin-file-validate-type.js"
+			],
+			[
+				"pond-plugin-file-validate-typ",
+				"client/node_modules/filepond-plugin-file-validate-type/dist/filepond-plugin-file-validate-type.js"
+			],
+			[
+				"mgrationcustomer ",
+				"server/database/migrations/2019_05_02_184922_create_customer_table.php"
+			],
+			[
+				"transacontro",
+				"server/app/Http/Controllers/TransactionsController.php"
+			],
+			[
+				"transacontr",
+				"server/app/Http/Controllers/TransactionsController.php"
+			],
+			[
+				"customercontro",
+				"server/app/Http/Controllers/CustomerController.php"
+			],
+			[
+				"app vue",
+				"client/src/App.vue"
+			],
+			[
+				"authcontrol",
+				"server/app/Http/Controllers/AuthController.php"
+			],
+			[
+				"terror plan index",
+				"components/terrorVermelho/Plans/Plan/index.vue"
+			],
+			[
+				"terro plans index",
+				"components/terrorVermelho/Plans/index.vue"
+			],
+			[
+				"terror plan vue",
+				"components/terrorVermelho/Plans/Plan/index.vue"
+			],
+			[
+				"terror plan indexvue",
+				"components/terrorVermelho/Plans/Plan/index.vue"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/bp-home.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
